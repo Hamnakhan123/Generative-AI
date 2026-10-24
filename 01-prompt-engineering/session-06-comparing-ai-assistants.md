@@ -77,9 +77,9 @@ quadrantChart
     quadrant-2 "Integrated drafting"
     quadrant-3 "General chat"
     quadrant-4 "Web research"
-    "Copilot": [0.8, 0.8]
-    "Gemini": [0.75, 0.7]
-    "ChatGPT": [0.55, 0.5]
+    Copilot: [0.8, 0.8]
+    Gemini: [0.75, 0.7]
+    ChatGPT: [0.55, 0.5]
 ```
 
 *(Positions are a sample class judgement, not official data.)*

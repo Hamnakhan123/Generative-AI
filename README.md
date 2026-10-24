@@ -45,17 +45,17 @@ flowchart LR
 
 📝 [Practice test](01-prompt-engineering/practice-test.md)
 
-### Track 2 · Gen AI Accelerator
+### [Track 2 · Gen AI Accelerator](02-gen-ai-accelerator/README.md)
 
-1. Getting Started with Generative AI — *coming soon*
-2. Exploring Generative AI Tools — *coming soon*
-3. Boosting Productivity and Creativity with AI — *coming soon*
-4. Collaborating with AI for Smart Learning — *coming soon*
-5. Weighing the Pros and Cons of Generative AI — *coming soon*
-6. Human–AI Collaboration Essentials — *coming soon*
-7. Responsible AI and Ethical Considerations — *coming soon*
+1. [Getting Started with Generative AI](02-gen-ai-accelerator/session-01-getting-started-with-generative-ai.md)
+2. [Exploring Generative AI Tools](02-gen-ai-accelerator/session-02-exploring-gen-ai-tools.md)
+3. [Boosting Productivity and Creativity with AI](02-gen-ai-accelerator/session-03-boosting-productivity-and-creativity.md)
+4. [Collaborating with AI for Smart Learning](02-gen-ai-accelerator/session-04-collaborating-with-ai-for-smart-learning.md)
+5. [Weighing the Pros and Cons of Generative AI](02-gen-ai-accelerator/session-05-weighing-pros-and-cons.md)
+6. [Human–AI Collaboration Essentials](02-gen-ai-accelerator/session-06-human-ai-collaboration.md)
+7. [Responsible AI and Ethical Considerations](02-gen-ai-accelerator/session-07-responsible-ai-and-ethics.md)
 
-📝 Practice test — *coming soon*
+📝 [Practice test](02-gen-ai-accelerator/practice-test.md)
 
 ### Track 3 · Innovate with Generative AI
 

@@ -28,7 +28,7 @@ flowchart LR
 
 ## Contents
 
-### Track 1 · Prompt Engineering
+### [Track 1 · Prompt Engineering](01-prompt-engineering/README.md)
 
 1. [Getting Started with Prompting](01-prompt-engineering/session-01-getting-started-with-prompting.md)
 2. [Types of Prompts and Prompt Priming](01-prompt-engineering/session-02-types-of-prompts-and-priming.md)
@@ -36,14 +36,14 @@ flowchart LR
 4. [Case Studies: Content, Commercials, Social Media and Icons](01-prompt-engineering/session-04-case-studies-content-and-social-media.md)
 5. [Prompting in Apps: Spreadsheets, Personal Style and Comparisons](01-prompt-engineering/session-05-prompting-in-apps-sheets-and-style.md)
 6. [Comparing AI Assistants: ChatGPT, Copilot and Gemini](01-prompt-engineering/session-06-comparing-ai-assistants.md)
-7. Transforming Text into Visual Art — *coming soon*
-8. Image Generation Settings: Iterate, Upscale, Remix, Aspect Ratio — *coming soon*
-9. Advanced Prompting Strategies and AI in Spreadsheets — *coming soon*
-10. Applied Prompting, Fine-Tuning Basics and Soft Prompts — *coming soon*
-11. Prompt Hacking: Injection, Leaking, Jailbreaking and Defences — *coming soon*
-12. Final Project: Mastering the Art of Prompting — *coming soon*
+7. [Transforming Text into Visual Art](01-prompt-engineering/session-07-text-to-visual-art.md)
+8. [Image Generation Settings: Iterate, Upscale, Remix, Aspect Ratio](01-prompt-engineering/session-08-image-generation-settings.md)
+9. [Advanced Prompting Strategies and AI in Spreadsheets](01-prompt-engineering/session-09-advanced-prompting-strategies.md)
+10. [Applied Prompting, Fine-Tuning Basics and Soft Prompts](01-prompt-engineering/session-10-applied-prompting-and-prompt-tuning.md)
+11. [Prompt Hacking: Injection, Leaking, Jailbreaking and Defences](01-prompt-engineering/session-11-prompt-hacking-and-defences.md)
+12. [Final Project: Mastering the Art of Prompting](01-prompt-engineering/session-12-final-project-mastering-prompts.md)
 
-📝 Practice test — *coming soon*
+📝 [Practice test](01-prompt-engineering/practice-test.md)
 
 ### Track 2 · Gen AI Accelerator
 

@@ -57,17 +57,17 @@ flowchart LR
 
 📝 [Practice test](02-gen-ai-accelerator/practice-test.md)
 
-### Track 3 · Innovate with Generative AI
+### [Track 3 · Innovate with Generative AI](03-innovate-with-generative-ai/README.md)
 
-1. Generative AI for Creators: Foundations and Toolkit — *coming soon*
-2. Creating Textual Content with Generative AI — *coming soon*
-3. Creating Visual Designs: Images, Posters and Presentations — *coming soon*
-4. Creating Audio and Video with Generative AI — *coming soon*
-5. Storytelling with Generative AI — *coming soon*
-6. Planning Complex Tasks: Events, Campaigns and Projects — *coming soon*
-7. Analysing and Optimising Content Strategies — *coming soon*
+1. [Generative AI for Creators: Foundations and Toolkit](03-innovate-with-generative-ai/session-01-generative-ai-for-creators.md)
+2. [Creating Textual Content with Generative AI](03-innovate-with-generative-ai/session-02-creating-textual-content.md)
+3. [Creating Visual Designs: Images, Posters and Presentations](03-innovate-with-generative-ai/session-03-creating-visual-designs.md)
+4. [Creating Audio and Video with Generative AI](03-innovate-with-generative-ai/session-04-creating-audio-and-video.md)
+5. [Storytelling with Generative AI](03-innovate-with-generative-ai/session-05-storytelling-with-generative-ai.md)
+6. [Planning Complex Tasks: Events, Campaigns and Projects](03-innovate-with-generative-ai/session-06-planning-complex-tasks.md)
+7. [Analysing and Optimising Content Strategies](03-innovate-with-generative-ai/session-07-analyzing-and-optimizing-content.md)
 
-📝 Practice test — *coming soon*
+📝 [Practice test](03-innovate-with-generative-ai/practice-test.md)
 
 ### Track 4 · AI Architecture and Agents
 

@@ -1,0 +1,55 @@
+# Session 4 · Kubernetes manifests for a TF Serving model (apply with: kubectl apply -f session-04_k8s_deployment.yaml)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: iris-serving
+spec:
+  replicas: 2                       # start with 2 pods for availability
+  selector:
+    matchLabels: {app: iris-serving}
+  template:
+    metadata:
+      labels: {app: iris-serving}
+    spec:
+      containers:
+        - name: tf-serving
+          image: tensorflow/serving:latest
+          args: ["--model_name=iris", "--model_base_path=/models/iris"]
+          ports:
+            - containerPort: 8501   # REST
+            - containerPort: 8500   # gRPC
+          resources:
+            requests: {cpu: "500m", memory: "512Mi"}
+            limits:   {cpu: "1",    memory: "1Gi"}
+          readinessProbe:           # only send traffic once the model is loaded
+            httpGet: {path: /v1/models/iris, port: 8501}
+            initialDelaySeconds: 5
+          volumeMounts:
+            - {name: model-store, mountPath: /models/iris}
+      volumes:
+        - name: model-store
+          persistentVolumeClaim: {claimName: iris-models}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: iris-serving
+spec:
+  selector: {app: iris-serving}
+  ports:
+    - {name: rest, port: 8501, targetPort: 8501}
+  type: LoadBalancer
+---
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: iris-serving
+spec:
+  scaleTargetRef: {apiVersion: apps/v1, kind: Deployment, name: iris-serving}
+  minReplicas: 2
+  maxReplicas: 20
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target: {type: Utilization, averageUtilization: 70}

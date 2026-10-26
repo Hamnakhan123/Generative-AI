@@ -69,17 +69,17 @@ flowchart LR
 
 📝 [Practice test](03-innovate-with-generative-ai/practice-test.md)
 
-### Track 4 · AI Architecture and Agents
+### [Track 4 · AI Architecture and Agents](04-ai-architecture-and-agents/README.md)
 
-1. Transformers and the Attention Mechanism — *coming soon*
-2. TensorFlow for Deep Learning Operations — *coming soon*
-3. Mastering the Keras API for Model Development — *coming soon*
-4. Scalable Deployment: Serving, Lite, Kubernetes and TFX — *coming soon*
-5. Real-World AI Pipelines and Reinforcement Learning — *coming soon*
-6. Understanding AI Agents and Agent Frameworks — *coming soon*
-7. Building AI-Powered Apps: Local LLMs, Summariser, Chatbot and RAG — *coming soon*
+1. [Transformers and the Attention Mechanism](04-ai-architecture-and-agents/session-01-transformers-and-attention.md)
+2. [TensorFlow for Deep Learning Operations](04-ai-architecture-and-agents/session-02-tensorflow-deep-learning-operations.md)
+3. [Mastering the Keras API for Model Development](04-ai-architecture-and-agents/session-03-keras-api-model-development.md)
+4. [Scalable Deployment: Serving, Lite, Kubernetes and TFX](04-ai-architecture-and-agents/session-04-scalable-deployment.md)
+5. [Real-World AI Pipelines and Reinforcement Learning](04-ai-architecture-and-agents/session-05-ai-pipelines-and-reinforcement-learning.md)
+6. [Understanding AI Agents and Agent Frameworks](04-ai-architecture-and-agents/session-06-understanding-ai-agents.md)
+7. [Building AI-Powered Apps: Local LLMs, Summariser, Chatbot and RAG](04-ai-architecture-and-agents/session-07-building-ai-powered-applications.md)
 
-📝 Practice test — *coming soon*
+📝 [Practice test](04-ai-architecture-and-agents/practice-test.md)
 
 ### Track 5 · Rapid App Development (Low/No-Code)
 

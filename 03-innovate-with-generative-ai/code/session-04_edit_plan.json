@@ -1,0 +1,60 @@
+{
+  "title": "CS Department Promo",
+  "fps": 30,
+  "shots": [
+    {
+      "shot": 1,
+      "start": 0.0,
+      "end": 6.0,
+      "visual_prompt": "Slow drone shot over a university campus at sunrise, warm light, cinematic",
+      "narration": "Every great career starts with one good decision.",
+      "music": "soft piano in",
+      "caption": "Every great career starts with one good decision."
+    },
+    {
+      "shot": 2,
+      "start": 6.0,
+      "end": 14.0,
+      "visual_prompt": "Close-up of hands typing code on a laptop, screen glow, shallow depth of field",
+      "narration": "In our computer science labs you build real projects from week one.",
+      "music": "beat starts",
+      "caption": "In our computer science labs you build real projects from week one."
+    },
+    {
+      "shot": 3,
+      "start": 14.0,
+      "end": 22.0,
+      "visual_prompt": "Students laughing around a whiteboard covered in diagrams, handheld camera",
+      "narration": "You learn with people who push you, help you and celebrate with you.",
+      "music": "beat",
+      "caption": "You learn with people who push you, help you and celebrate with you."
+    },
+    {
+      "shot": 4,
+      "start": 22.0,
+      "end": 29.0,
+      "visual_prompt": "A robot arm sorting coloured blocks, macro lens, studio lighting",
+      "narration": "Robotics, AI and data science, taught by practising engineers.",
+      "music": "beat",
+      "caption": "Robotics, AI and data science, taught by practising engineers."
+    },
+    {
+      "shot": 5,
+      "start": 29.0,
+      "end": 37.0,
+      "visual_prompt": "Graduates throwing caps in the air, slow motion, golden hour",
+      "narration": "Our graduates work at startups and global companies.",
+      "music": "swell",
+      "caption": "Our graduates work at startups and global companies."
+    },
+    {
+      "shot": 6,
+      "start": 37.0,
+      "end": 43.0,
+      "visual_prompt": "Logo reveal on dark background with orange glow particles",
+      "narration": "Applications are open. Visit our website today.",
+      "music": "final hit",
+      "caption": "Applications are open. Visit our website today."
+    }
+  ]
+}
